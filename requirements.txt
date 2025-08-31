@@ -1,5 +1,1 @@
-HEAD
 aiogram==3.0.0
-=======
-aiogram==3.0.0
-88e4794f0ccd1d03f0f5a10e189cbec32e7c3173
